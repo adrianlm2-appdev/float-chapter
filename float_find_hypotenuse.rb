@@ -4,4 +4,8 @@
 # 
 # 5.3
 
+squared = 2.8 ** 2 + 4.5 ** 2
 
+hypotenuse = squared ** 0.5
+
+p hypotenuse
